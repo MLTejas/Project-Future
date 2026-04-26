@@ -1,1 +1,1 @@
-#Demo purpose only
+#demo
